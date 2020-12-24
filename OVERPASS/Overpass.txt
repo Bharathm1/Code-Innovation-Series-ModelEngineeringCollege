@@ -1,0 +1,9 @@
+Project Description:
+Our project is an App to automate the patients awareness in medicines.
+
+Contents:
+Overpass.pptx
+Overpass.txt
+Overpass_chatbot.py
+
+Hosting will be through Anaconda Python Compiler.
